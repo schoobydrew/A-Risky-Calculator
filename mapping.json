@@ -1,0 +1,35 @@
+{
+    "defender":{
+        "infantry":2,
+        "mechanized_infantry":2,
+        "submarine":1,
+        "artillery":2,
+        "destroyer":2,
+        "tactical_bomber":3,
+        "cruiser":3,
+        "fighter":4,
+        "tank":3,
+        "bomber":1,
+        "battleship":4,
+        "aa_gun":1,
+        "aircraft_carrier":2,
+        "damaged_aircraft_carrier":2,
+        "damaged_battleship":4
+    },
+    "attacker":{
+        "infantry":1,
+        "mechanized_infantry":1,
+        "submarine":1,
+        "artillery":2,
+        "destroyer":2,
+        "tactical_bomber":3,
+        "cruiser":3,
+        "fighter":3,
+        "tank":3,
+        "bomber":4,
+        "battleship":4,
+        "damaged_battleship":4,
+        "aircraft_carrier":2,
+        "damaged_aircraft_carrier":2
+    }
+}

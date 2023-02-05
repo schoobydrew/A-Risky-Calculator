@@ -1,0 +1,35 @@
+{
+    "forces":{
+        "infantry":6,
+        "mechanized_infantry":0,
+        "submarine":0,
+        "artillery":2,
+        "destroyer":0,
+        "tactical_bomber":0,
+        "cruiser":0,
+        "fighter":3,
+        "tank":3,
+        "bomber":0,
+        "battleship":0,
+        "aa_gun":1,
+        "aircraft_carrier":0,
+        "damaged_aircraft_carrier":0,
+        "damaged_battleship":0
+    },
+    "order":[
+        "infantry",
+        "mechanized_infantry",
+        "submarine",
+        "artillery",
+        "destroyer",
+        "tank",
+        "tactical_bomber",
+        "cruiser",
+        "fighter",
+        "bomber",
+        "damaged_battleship",
+        "battleship",
+        "damaged_aircraft_carrier",
+        "aircraft_carrier"
+    ]
+}
